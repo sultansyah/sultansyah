@@ -17,6 +17,7 @@ Halo, nama saya Muhammad Sultansyah. Saya seorang lulusan IT baru dengan spesial
 🚀 Proyek Saya
 ------------------
 * POS Sederhana
+* Katalog Digital Product
 * REST API Notes
 * Website Crowdfunding
 * Sistem Prediksi Kebutuhan Bahan Baku Kopi pada Kafe Menggunakan ARIMA Berbasis Web
