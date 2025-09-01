@@ -1,11 +1,11 @@
 # Hi there 👋
 
-Halo, nama saya Muhammad Sultansyah. Saya seorang lulusan IT baru dengan spesialisasi di pengembangan web, fokus pada backend dan fullstack.
+Halo, nama saya Muhammad Sultansyah. Saya seorang Fullstack Software Engineer spesialisasi di pengembangan web dan mobile.
 
 🛠️ KETERAMPILAN
 ------------------
-* Frontend Development: HTML, JavaScript, Vue.js 
-* Backend Development: PHP, Laravel, Golang, MySQL
+* Frontend Development: HTML, JavaScript, NextJS, Tailwind CSS 
+* Backend Development: PHP, Laravel, Golang, MySQL, NextJS
 
 📫  Cara menghubungi saya:
 ------------------
