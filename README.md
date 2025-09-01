@@ -6,6 +6,7 @@ Halo, nama saya Muhammad Sultansyah. Saya seorang Fullstack Software Engineer sp
 ------------------
 * Frontend Development: HTML, JavaScript, NextJS, Tailwind CSS 
 * Backend Development: PHP, Laravel, Golang, MySQL, NextJS
+* Mobile: React Native
 
 📫  Cara menghubungi saya:
 ------------------
