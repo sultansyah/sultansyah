@@ -1,9 +1,9 @@
-## Halo, saya Muhammad Sultansyah. Fullstack Software Engineer (web & mobile).
+## Halo, saya Muhammad Sultansyah. Fullstack Software Engineer.
 
 ## KETERAMPILAN
-Frontend: HTML, JavaScript, NextJS, Tailwind CSS  
+Frontend: HTML, JavaScript, ReactJS, NextJS, Tailwind CSS  
 Backend: PHP, Laravel, Golang, MySQL  
-Mobile: React Native
+Mobile: React Native, Flutter
 
 ## KONTAK
 muhammadsultansyah14@gmail.com  
