@@ -1,6 +1,6 @@
-## Halo, saya Muhammad Sultansyah — Full-Stack Software Engineer
+## Halo, saya Muhammad Sultansyah 👋
 
-Saya adalah Full-Stack Software Engineer dengan fokus utama pada pengembangan frontend modern, performa aplikasi, dan pengalaman pengguna yang responsif.
+Software Engineer yang berfokus pada pengembangan aplikasi modern, performa sistem, dan pengalaman pengguna yang responsif.
 
 ## KONTAK
 
