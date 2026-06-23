@@ -1,8 +1,8 @@
-## Halo, saya Muhammad Sultansyah 👋
+## Hi, I'm Muhammad Sultansyah 👋
 
-Software Engineer yang berfokus pada pengembangan aplikasi modern, performa sistem, dan pengalaman pengguna yang responsif.
+A software engineer who enjoys figuring out how things work and building useful products.
 
-## KONTAK
+## CONTACT
 
 * Email: [muhammadsultansyah14@gmail.com](mailto:muhammadsultansyah14@gmail.com)
 * LinkedIn: linkedin.com/in/muhammad-sultansyah
